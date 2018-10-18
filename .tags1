@@ -1,0 +1,10 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+#main	/Users/k-sato/Desktop/HAS/app/assets/stylesheets/application.scss	/^#main {$/;"	function	line:26
+@media only screen and (max-width: 600px)	/Users/k-sato/Desktop/HAS/app/assets/stylesheets/application.scss	/^@media only screen and (max-width: 600px) {$/;"	function	line:34
+.navbar	/Users/k-sato/Desktop/HAS/app/assets/stylesheets/application.scss	/^    .navbar {$/;"	function	line:35
+.Footer	/Users/k-sato/Desktop/HAS/app/assets/stylesheets/application.scss	/^    .Footer {$/;"	function	line:38
