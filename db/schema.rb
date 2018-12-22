@@ -10,17 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180717065241) do
-
-  create_table "constant_expenses", force: :cascade do |t|
-    t.string "title"
-    t.text "description"
-    t.string "category"
-    t.integer "amount"
-    t.date "date"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
+ActiveRecord::Schema.define(version: 20180607075339) do
 
   create_table "expenses", force: :cascade do |t|
     t.string "title"
