@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Your personal finance manegement application.
 
-Things you may want to cover:
+# Dashboard
+![image](https://user-images.githubusercontent.com/32632542/51067843-50805980-1659-11e9-913e-3f1cbc75fa4f.png)
 
-* Ruby version
+# Expense 
+![image](https://user-images.githubusercontent.com/32632542/51067878-bcfb5880-1659-11e9-9961-e7bfd30140ab.png)
 
-* System dependencies
+# Income
+![image](https://user-images.githubusercontent.com/32632542/51067884-d2708280-1659-11e9-94ce-fc09f8e8a422.png)
 
-* Configuration
+# Top-nav mode
+![image](https://user-images.githubusercontent.com/32632542/51067906-f6cc5f00-1659-11e9-91a5-d121caf78299.png)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Dark Theme
+![image](https://user-images.githubusercontent.com/32632542/51067916-0fd51000-165a-11e9-88de-e3fd54331c20.png)
