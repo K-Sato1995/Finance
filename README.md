@@ -6,7 +6,7 @@ Your personal finance manegement application.
 ![image](https://user-images.githubusercontent.com/32632542/51067843-50805980-1659-11e9-913e-3f1cbc75fa4f.png)
 
 # Expense 
-![image](https://user-images.githubusercontent.com/32632542/51067878-bcfb5880-1659-11e9-9961-e7bfd30140ab.png)
+![image](https://user-images.githubusercontent.com/32632542/51067932-3c892780-165a-11e9-8691-e47b75d41306.png)
 
 # Income
 ![image](https://user-images.githubusercontent.com/32632542/51067884-d2708280-1659-11e9-94ce-fc09f8e8a422.png)
